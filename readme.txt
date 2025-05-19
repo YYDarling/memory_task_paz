@@ -46,7 +46,8 @@ All session data are saved in the `result_output/` folder under each participant
 For example:
 
     result_output/
-    └── sub01/
+    └── group01/
+      └── sub01/
         └── session_1_self_paced.csv
 
 📄 CSV File Format Explanation:
